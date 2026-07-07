@@ -1,16 +1,7 @@
 # Image-Editor-for-clothing-e-commerce.
 Image Editor for a clothing brand. This is a confidential project, so I cannot disclose the complete source code. However, the editing workflow, architecture, and implementation approach can be adapted and customized to meet your company's specific requirements.
 
-
-# Product Image Editor (Clothing Brand)
-
-Free, local, text-instructed image editing for product photos. Upload a raw
-photo, type what you want changed (e.g. *"change background to white
-studio"*), and get an edited image — no paid API needed.
-
-Powered by [InstructPix2Pix](https://huggingface.co/timbrooks/instruct-pix2pix),
-a free, open-source model from Hugging Face, run locally through the
-`diffusers` library.
+==========================================
 
 ## 1. Requirements
 
